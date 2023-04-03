@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc507d3b37f5c347b2ae2a60bf5e564, type: 3}
+  m_Name: IngComp_sandwichBread
+  m_EditorClassIdentifier: 
+  ingName: Bun
+  icon: {fileID: 21300000, guid: 05f82a2017d4a8f429113c5b84990de2, type: 3}
+  sprite: {fileID: 21300000, guid: ab050b73e31e56145b67b9bc99b312dd, type: 3}
+  price: 8
+  height: 0
+  nextIngSpace: 0
+  ingredients:
+  - {fileID: 11400000, guid: 819fc4ce627aa354482aba3673bba704, type: 2}
+  - {fileID: 11400000, guid: bb4437b690352cb41abcacc43b9fe757, type: 2}

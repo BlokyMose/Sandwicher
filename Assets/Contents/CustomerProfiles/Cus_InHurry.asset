@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005ddc39dbfd9b14098e213ad67f1f9f, type: 3}
+  m_Name: Cus_InHurry
+  m_EditorClassIdentifier: 
+  customerName: Clare
+  aliasName: Hurry
+  icon: {fileID: 896585398, guid: 8dbe720405c568947a76f6ecd2fd800a, type: 3}
+  sLib: {fileID: 7108339969198208228, guid: d2639236d651c3c40bf8bcc1739f1985, type: 3}
+  waitTolerance: {fileID: 11400000, guid: 6c735bff5739bf4428067f8583939ab1, type: 2}
+  priceTolerance: {fileID: 11400000, guid: 8b7eb54fbe927b54994299784b04498a, type: 2}

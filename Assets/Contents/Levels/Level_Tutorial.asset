@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e911e0b566418934bb05782fc08b5918, type: 3}
+  m_Name: Level_Tutorial
+  m_EditorClassIdentifier: 
+  levelDisplayName: 0. Contract
+  description: Let's get to the basics
+  sceneName: Tutorial
+  scene: {fileID: 102900000, guid: 7eacc3a4d28112c46be64778a8fff6f2, type: 3}
+  customerCount: 100
+  ingredients:
+  - {fileID: 11400000, guid: bbc578dedeb3df143bbab3d9903b2796, type: 2}
+  - {fileID: 11400000, guid: 0693e364f7f23624998ae22d4b042d53, type: 2}
+  - {fileID: 11400000, guid: dcff2816ce0b842459d810424551f8c4, type: 2}
+  orders:
+  - {fileID: 11400000, guid: a9ad6367eced88d45b212627ef4d2c4e, type: 2}
+  customerProfiles:
+  - {fileID: 11400000, guid: 9cc2cb98d7b0b8d40853ee940d2a5b8c, type: 2}

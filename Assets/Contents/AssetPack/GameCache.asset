@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 291c990dfb4336842a74f81ffc3a193d, type: 3}
+  m_Name: GameCache
+  m_EditorClassIdentifier: 
+  mainMenu: {fileID: 11400000, guid: 442e0f4275cbf7e419b9655addef83bc, type: 2}
+  levelMenu: {fileID: 11400000, guid: 31841ca41907df344a10d408edac3e27, type: 2}
+  levels:
+  - {fileID: 11400000, guid: c549e7be0358a2d4a8f0d26201eb6ed5, type: 2}
+  - {fileID: 11400000, guid: 65b642925911fec4c9588e6ee35c0c0b, type: 2}
+  - {fileID: 11400000, guid: 38eb30ddc058a2b459279efe81deea09, type: 2}
+  levelTransition: {fileID: 1678716862157831598, guid: eed13bdcd5a828e43aaae3111deeae76, type: 3}
+  GameLevel: {fileID: 11400000, guid: c549e7be0358a2d4a8f0d26201eb6ed5, type: 2}

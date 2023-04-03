@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005ddc39dbfd9b14098e213ad67f1f9f, type: 3}
+  m_Name: Cus_Normal
+  m_EditorClassIdentifier: 
+  customerName: Guy
+  aliasName: Normal
+  icon: {fileID: 147327735, guid: 223295dcc74979f4095f6e5e2da0f0d8, type: 3}
+  sLib: {fileID: 7108339969198208228, guid: 86933a1684be7034c9410decf5eaf197, type: 3}
+  waitTolerance: {fileID: 11400000, guid: 8b7eb54fbe927b54994299784b04498a, type: 2}
+  priceTolerance: {fileID: 11400000, guid: 8b7eb54fbe927b54994299784b04498a, type: 2}

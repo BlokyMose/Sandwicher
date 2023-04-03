@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d949b39a040253499ca4079d89b1b1e, type: 3}
+  m_Name: Ing_onionSlices
+  m_EditorClassIdentifier: 
+  ingName: Onion Slices
+  icon: {fileID: 21300000, guid: 3172324f4471bda44ae82b0d6f650d24, type: 3}
+  sprite: {fileID: 21300000, guid: 5b5bc4f9e7c25914a8631f34b02bceee, type: 3}
+  shape: 0
+  canBeRounded: 1
+  spriteRounded: {fileID: 21300000, guid: 226433e0465b363439950428b42742c3, type: 3}
+  nextSpaceRoundedToFlat: {fileID: 11400000, guid: 5def646dabca4784fa72ad9a6e65a10b, type: 2}
+  price: 4
+  height: {fileID: 11400000, guid: 86661d926e9e6da4c8e3394f404237fd, type: 2}
+  nextSpace: {fileID: 11400000, guid: 5dde687df0abff3418a02ec5c57173fa, type: 2}

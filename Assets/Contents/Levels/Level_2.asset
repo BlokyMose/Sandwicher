@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e911e0b566418934bb05782fc08b5918, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  levelDisplayName: 2. Rush Hour
+  description: Chilly time with extra customers
+  sceneName: Game
+  scene: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+  customerCount: 10
+  ingredients:
+  - {fileID: 11400000, guid: bbc578dedeb3df143bbab3d9903b2796, type: 2}
+  - {fileID: 11400000, guid: 0693e364f7f23624998ae22d4b042d53, type: 2}
+  - {fileID: 11400000, guid: c3bfc3dfa5cfbc24c86fc443a303918c, type: 2}
+  - {fileID: 11400000, guid: dcff2816ce0b842459d810424551f8c4, type: 2}
+  - {fileID: 11400000, guid: a004c974daece7847aa256e83e79f98a, type: 2}
+  - {fileID: 11400000, guid: eff6b094465302b4b8c97a8ede531b34, type: 2}
+  - {fileID: 11400000, guid: 399923057d6cb5d4eae539f3a924cfac, type: 2}
+  orders:
+  - {fileID: 11400000, guid: fca4e19fdbd66dd4395ef06c0cf6451c, type: 2}
+  - {fileID: 11400000, guid: fbda726154e502f47b91583966836cd2, type: 2}
+  - {fileID: 11400000, guid: e40cdad0ceb0d074284087630e5540d5, type: 2}
+  - {fileID: 11400000, guid: a9ad6367eced88d45b212627ef4d2c4e, type: 2}
+  customerProfiles:
+  - {fileID: 11400000, guid: 342e915c714e15a4cacbd84e898cc66d, type: 2}
+  - {fileID: 11400000, guid: 9d92f8b59843240459bd14da78f99c50, type: 2}
+  - {fileID: 11400000, guid: 0960a0bff0bf0c94fa7a1943209defd4, type: 2}

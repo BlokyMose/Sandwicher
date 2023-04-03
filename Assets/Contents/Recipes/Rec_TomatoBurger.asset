@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7944df7200c27ab42894c62997f9f22e, type: 3}
+  m_Name: Rec_TomatoBurger
+  m_EditorClassIdentifier: 
+  recipeName: Tomato Burgie
+  desc: Meat with tomatoes, real and sauce
+  category: {fileID: 11400000, guid: ea998433cea655c42867f977e41545be, type: 2}
+  ingredientPositions:
+  - ingredient: {fileID: 11400000, guid: dcff2816ce0b842459d810424551f8c4, type: 2}
+    index: 2
+  - ingredient: {fileID: 11400000, guid: a004c974daece7847aa256e83e79f98a, type: 2}
+    index: 0
+  - ingredient: {fileID: 11400000, guid: 0693e364f7f23624998ae22d4b042d53, type: 2}
+    index: 0
+  - ingredient: {fileID: 11400000, guid: c3bfc3dfa5cfbc24c86fc443a303918c, type: 2}
+    index: 0
+  - ingredient: {fileID: 11400000, guid: bbc578dedeb3df143bbab3d9903b2796, type: 2}
+    index: 1

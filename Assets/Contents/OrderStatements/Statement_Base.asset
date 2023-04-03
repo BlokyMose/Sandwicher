@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f950110c83672ad4fb103f0cc48ae02d, type: 3}
+  m_Name: Statement_Base
+  m_EditorClassIdentifier: 
+  recipeNameColor: {r: 0.18823531, g: 0.3803922, b: 0.25490198, a: 1}
+  phraseSeparator: ' '
+  ingSeparator: ', '
+  ingLastItemPrefix: and
+  ingLastItemSuffix: ', '
+  phrases:
+  - type: 0
+    text: I want a
+  - type: 3
+    text: 
+  - type: 0
+    text: ' please!'

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc507d3b37f5c347b2ae2a60bf5e564, type: 3}
+  m_Name: IngComp_bun
+  m_EditorClassIdentifier: 
+  ingName: Bun
+  icon: {fileID: 21300000, guid: 8dbe995856de69646ab1ecd34f74424e, type: 3}
+  sprite: {fileID: 21300000, guid: 7b4f890b58e25c24e94fe5a33ae42d8f, type: 3}
+  price: 12
+  height: 0
+  nextIngSpace: 0
+  ingredients:
+  - {fileID: 11400000, guid: bbc578dedeb3df143bbab3d9903b2796, type: 2}
+  - {fileID: 11400000, guid: dcff2816ce0b842459d810424551f8c4, type: 2}

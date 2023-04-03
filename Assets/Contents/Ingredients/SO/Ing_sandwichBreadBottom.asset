@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d949b39a040253499ca4079d89b1b1e, type: 3}
+  m_Name: Ing_sandwichBreadBottom
+  m_EditorClassIdentifier: 
+  ingName: Sandwich Bread (Bottom)
+  icon: {fileID: 21300000, guid: 6eef7d1ac9f7d2046af04dcf6baebde8, type: 3}
+  sprite: {fileID: 21300000, guid: 86d53d4bb2550484bb2c553b170b909e, type: 3}
+  price: 8
+  height: {fileID: 11400000, guid: 45716257cf1ce8d44995fd6623c55a99, type: 2}
+  nextSpace: {fileID: 11400000, guid: 5dde687df0abff3418a02ec5c57173fa, type: 2}
