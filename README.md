@@ -1,2 +1,4 @@
 # Sandwicher
- Sandwich making mobile game
+ Sandwich making mobile game.
+ 
+ Created by Raynhard M. Kemal
